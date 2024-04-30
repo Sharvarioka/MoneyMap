@@ -12,7 +12,6 @@ MoneyMap is a react-native budget tracker. The motive to use voice is to make it
 - Logout screen
 
 ## Following are the screenshots of application:
-<br>
 <img src="screenshots/signupMoneyMap.jpeg" alt="drawing" width="256"/>
 <img src="screenshots/loginMoneyMap.jpeg" alt="drawing" width="256"/>
 <img src="screenshots/homepageMoneyMap.jpeg" alt="drawing" width="256"/>
