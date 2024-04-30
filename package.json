@@ -1,0 +1,63 @@
+{
+  "name": "MoneyMap",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.16.1",
+    "@react-native-community/art": "^1.2.0",
+    "@react-native-voice/voice": "^3.2.1",
+    "@react-navigation/bottom-tabs": "^6.0.5",
+    "@react-navigation/drawer": "^6.1.4",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/stack": "^6.0.7",
+    "assert": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "buffer": "^6.0.3",
+    "expo-sensors": "^10.2.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "os": "^0.1.1",
+    "react": "17.0.1",
+    "react-native": "0.64.1",
+    "react-native-audio-record": "^0.2.2",
+    "react-native-fs": "^2.18.0",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-permissions": "^3.1.0",
+    "react-native-pie-chart": "^2.0.2",
+    "react-native-reanimated": "^1.13.3",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.7.2",
+    "react-native-table-component": "^1.2.1",
+    "react-native-unimodules": "^0.14.6",
+    "react-native-uuid": "^2.0.1",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.4.4",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "uuid": "^3.4.0",
+    "words-to-numbers": "^1.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.14.6",
+    "@babel/runtime": "7.14.6",
+    "@react-native-community/eslint-config": "2.0.0",
+    "@types/react-native": "^0.64.5",
+    "babel-jest": "26.6.3",
+    "eslint": "7.14.0",
+    "jest": "26.6.3",
+    "metro-react-native-babel-preset": "0.64.0",
+    "react-test-renderer": "17.0.1",
+    "typescript": "^3.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
