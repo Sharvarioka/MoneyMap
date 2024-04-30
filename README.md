@@ -14,8 +14,8 @@ MoneyMap is a react-native budget tracker. The motive to use voice is to make it
 ## Following are the screenshots of application:
 <br>
 <img src="screenshots/signupMoneyMap.jpeg" alt="drawing" width="256"/>
-<img src="screenshots/loginMoneyMAp.jpeg" alt="drawing" width="256"/>
-<img src="screenshots/homePageMoneyMap.jpeg" alt="drawing" width="256"/>
+<img src="screenshots/loginMoneyMap.jpeg" alt="drawing" width="256"/>
+<img src="screenshots/homepageMoneyMap.jpeg" alt="drawing" width="256"/>
 <img src="screenshots/editBudgetMoneyMap.jpeg" alt="drawing" width="256"/>
 <img src="screenshots/howToUseMoneyMap.jpeg" alt="drawing" width="256"/>
 <img src="screenshots/pieChartMoneyMap.jpeg" alt="drawing" width="256"/>
